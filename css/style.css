@@ -1,0 +1,32 @@
+@charset "utf-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aquamarine;
+}
+#wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h2{
+  margin-left: 40%;  
+}
+form{
+    margin-left: 40%;
+    margin-top: 40px;
+}
+input{
+    margin-bottom: 10px;
+}
+p{
+    color: red;
+}
+.color{
+    color: red;
+}
+img{
+    width: 18px;
+    height: 18px;
+}
